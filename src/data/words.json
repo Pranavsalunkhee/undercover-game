@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "civilian": "Apple",
+    "undercover": "Mango",
+    "category": "Fruits",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "civilian": "Pizza",
+    "undercover": "Burger",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "civilian": "Tea",
+    "undercover": "Coffee",
+    "category": "Drinks",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "civilian": "Cricket",
+    "undercover": "Football",
+    "category": "Sports",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "civilian": "Laptop",
+    "undercover": "Tablet",
+    "category": "Technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "civilian": "Instagram",
+    "undercover": "Snapchat",
+    "category": "Technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "civilian": "Mumbai",
+    "undercover": "Pune",
+    "category": "Places",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "civilian": "Doctor",
+    "undercover": "Surgeon",
+    "category": "Profession",
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "civilian": "Dream",
+    "undercover": "Imagination",
+    "category": "Abstract",
+    "difficulty": "hard"
+  },
+  {
+    "id": 10,
+    "civilian": "Trust",
+    "undercover": "Loyalty",
+    "category": "Abstract",
+    "difficulty": "hard"
+  }
+]
