@@ -1,7 +1,24 @@
-import words from "../data/words.json";
+import generalWords from "../data/words.json";
+import maharashtraWords from "../data/maharashtra_words.json";
 
-export const selectRandomWords = () => {
-  const randomIndex = Math.floor(Math.random() * words.length);
+const libraries = {
+  general: generalWords,
+  maharashtra: maharashtraWords,
+  mixed: [...generalWords, ...maharashtraWords],
+};
+
+export const selectRandomWords = (
+  library = "general"
+) => {
+  const words = libraries[library] || generalWords;
+
+  if (words.length === 0) {
+    throw new Error("Selected word library is empty.");
+  }
+
+  const randomIndex = Math.floor(
+    Math.random() * words.length
+  );
 
   const selectedPair = words[randomIndex];
 

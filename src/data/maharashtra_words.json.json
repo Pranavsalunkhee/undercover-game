@@ -1,0 +1,996 @@
+[
+  {
+    "id": 1,
+    "civilian": "Ajinkyatara",
+    "undercover": "Sajjangad",
+    "category": "Satara Special",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "civilian": "Mahabaleshwar",
+    "undercover": "Kaas",
+    "category": "Satara Special",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "civilian": "Kaas Pathar",
+    "undercover": "Table Land",
+    "category": "Satara Special",
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "civilian": "Thoseghar",
+    "undercover": "Vajrai",
+    "category": "Satara Special",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "civilian": "Satara",
+    "undercover": "Karad",
+    "category": "Satara Special",
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "civilian": "Wai",
+    "undercover": "Koregaon",
+    "category": "Satara Special",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "civilian": "Girish",
+    "undercover": "Mangesh",
+    "category": "Satara Special",
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "civilian": "Krishna Nadi",
+    "undercover": "Koyna Nadi",
+    "category": "Satara Special",
+    "difficulty": "hard"
+  },
+  {
+    "id": 9,
+    "civilian": "Kurneshwar",
+    "undercover": "Sangam Mauli",
+    "category": "Satara Special",
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "civilian": "Phaltan",
+    "undercover": "Wai",
+    "category": "Satara Special",
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "civilian": "Misal Pav",
+    "undercover": "Vada Pav",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 12,
+    "civilian": "Kandi Pedha",
+    "undercover": "Lolipop",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 13,
+    "civilian": "Puran Poli",
+    "undercover": "Bhakari",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 14,
+    "civilian": "butter Roti",
+    "undercover": "Rice",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "civilian": "Pithla",
+    "undercover": "Methi",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 16,
+    "civilian": "Kanda Bhaji",
+    "undercover": "Dahi wada",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 17,
+    "civilian": "Thalipeeth",
+    "undercover": "Aloo Paratha",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 18,
+    "civilian": "Pohe",
+    "undercover": "Upma",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 19,
+    "civilian": "Sabudana Khichadi",
+    "undercover": "Masale Bhat",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 20,
+    "civilian": "Modak",
+    "undercover": "Jalebi",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 21,
+    "civilian": "Chakli",
+    "undercover": "Shev",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 22,
+    "civilian": "Ladu",
+    "undercover": "Barfi",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 23,
+    "civilian": "Thecha",
+    "undercover": "Chutney",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 24,
+    "civilian": "Bharli Vangi",
+    "undercover": "Batata chi bhaji",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 25,
+    "civilian": "Chavan kaka",
+    "undercover": "Nawadkar kaka",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 26,
+    "civilian": "Amti",
+    "undercover": "Varan",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 27,
+    "civilian": "Shrikhand",
+    "undercover": "Basundi",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 28,
+    "civilian": "Solkadhi",
+    "undercover": "Taak",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 29,
+    "civilian": "Chaha",
+    "undercover": "Coffee",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 30,
+    "civilian": "Lassi",
+    "undercover": "Taak",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 31,
+    "civilian": "Kanda",
+    "undercover": "Batata",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 32,
+    "civilian": "Ukadiche Modak",
+    "undercover": "Momos",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 33,
+    "civilian": "Bhel",
+    "undercover": "Shev Puri",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 34,
+    "civilian": "Pav Bhaji",
+    "undercover": "Masala Pav",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 35,
+    "civilian": "Jalebi",
+    "undercover": "Gulab Jamun",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 36,
+    "civilian": "Shankarpali",
+    "undercover": "Anarse",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 37,
+    "civilian": "Dink Ladu",
+    "undercover": "Besan Ladu",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 38,
+    "civilian": "Mutton Thali",
+    "undercover": "Chicken Thali",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 39,
+    "civilian": "Tambda Rassa",
+    "undercover": "Pandhra Rassa",
+    "category": "Food",
+    "difficulty": "medium"
+  },
+  {
+    "id": 40,
+    "civilian": "Pani Puri",
+    "undercover": "Dahi Puri",
+    "category": "Food",
+    "difficulty": "easy"
+  },
+  {
+    "id": 41,
+    "civilian": "Bailgadi",
+    "undercover": "Tractor",
+    "category": "Village Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 42,
+    "civilian": "Chul",
+    "undercover": "Gas Shegadi",
+    "category": "Village Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 43,
+    "civilian": "Vihir",
+    "undercover": "Borewell",
+    "category": "Village Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 44,
+    "civilian": "Angan",
+    "undercover": "Osari",
+    "category": "Village Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 45,
+    "civilian": "Gav",
+    "undercover": "Shahar",
+    "category": "Village Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 46,
+    "civilian": "Chavadi",
+    "undercover": "Gram Panchayat",
+    "category": "Village Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 47,
+    "civilian": "Jatra",
+    "undercover": "Urus",
+    "category": "Village Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 48,
+    "civilian": "Gotha",
+    "undercover": "Tabela",
+    "category": "Village Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 49,
+    "civilian": "Matka",
+    "undercover": "Ranjan",
+    "category": "Village Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 50,
+    "civilian": "Kandil",
+    "undercover": "Torch",
+    "category": "Village Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 51,
+    "civilian": "Chatai",
+    "undercover": "Sataranji",
+    "category": "Village Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 52,
+    "civilian": "Sup",
+    "undercover": "Chalni",
+    "category": "Village Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 53,
+    "civilian": "Jate",
+    "undercover": "Ukhal",
+    "category": "Village Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 54,
+    "civilian": "ST Bus",
+    "undercover": "Jeep",
+    "category": "Village Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 55,
+    "civilian": "Raan",
+    "undercover": "Mala",
+    "category": "Village Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 56,
+    "civilian": "Us",
+    "undercover": "Jowar",
+    "category": "Farming",
+    "difficulty": "easy"
+  },
+  {
+    "id": 57,
+    "civilian": "Gahu",
+    "undercover": "Bajri",
+    "category": "Farming",
+    "difficulty": "easy"
+  },
+  {
+    "id": 58,
+    "civilian": "Tur",
+    "undercover": "Harbhara",
+    "category": "Farming",
+    "difficulty": "medium"
+  },
+  {
+    "id": 59,
+    "civilian": "Bail",
+    "undercover": "Mhais",
+    "category": "Farming",
+    "difficulty": "easy"
+  },
+  {
+    "id": 60,
+    "civilian": "Nangar",
+    "undercover": "Kulav",
+    "category": "Farming",
+    "difficulty": "medium"
+  },
+  {
+    "id": 61,
+    "civilian": "Vila",
+    "undercover": "Khurpe",
+    "category": "Farming",
+    "difficulty": "medium"
+  },
+  {
+    "id": 62,
+    "civilian": "Perani",
+    "undercover": "Lavani",
+    "category": "Farming",
+    "difficulty": "medium"
+  },
+  {
+    "id": 63,
+    "civilian": "Kapani",
+    "undercover": "Malani",
+    "category": "Farming",
+    "difficulty": "medium"
+  },
+  {
+    "id": 64,
+    "civilian": "Thibak Sinchan",
+    "undercover": "Tushar Sinchan",
+    "category": "Farming",
+    "difficulty": "medium"
+  },
+  {
+    "id": 65,
+    "civilian": "Sheli",
+    "undercover": "Mendhi",
+    "category": "Farming",
+    "difficulty": "easy"
+  },
+  {
+    "id": 66,
+    "civilian": "Kanda",
+    "undercover": "Lasun",
+    "category": "Farming",
+    "difficulty": "easy"
+  },
+  {
+    "id": 67,
+    "civilian": "Strawberry",
+    "undercover": "Raspberry",
+    "category": "Farming",
+    "difficulty": "easy"
+  },
+  {
+    "id": 68,
+    "civilian": "Jirayat Sheti",
+    "undercover": "Bagayati",
+    "category": "Farming",
+    "difficulty": "medium"
+  },
+  {
+    "id": 69,
+    "civilian": "Shenkhat",
+    "undercover": "Compost",
+    "category": "Farming",
+    "difficulty": "medium"
+  },
+  {
+    "id": 70,
+    "civilian": "Dairy",
+    "undercover": "Sakhar Karkhana",
+    "category": "Farming",
+    "difficulty": "medium"
+  },
+  {
+    "id": 71,
+    "civilian": "Ganpati",
+    "undercover": "Navratri",
+    "category": "Festivals",
+    "difficulty": "easy"
+  },
+  {
+    "id": 72,
+    "civilian": "Diwali",
+    "undercover": "Holi",
+    "category": "Festivals",
+    "difficulty": "easy"
+  },
+  {
+    "id": 73,
+    "civilian": "Gudhi Padwa",
+    "undercover": "Makar Sankrant",
+    "category": "Festivals",
+    "difficulty": "medium"
+  },
+  {
+    "id": 74,
+    "civilian": "Dahi Handi",
+    "undercover": "Ganpati Visarjan",
+    "category": "Festivals",
+    "difficulty": "medium"
+  },
+  {
+    "id": 75,
+    "civilian": "Bhaubeej",
+    "undercover": "Raksha Bandhan",
+    "category": "Festivals",
+    "difficulty": "medium"
+  },
+  {
+    "id": 76,
+    "civilian": "Rang Panchami",
+    "undercover": "Dhulivandan",
+    "category": "Festivals",
+    "difficulty": "medium"
+  },
+  {
+    "id": 77,
+    "civilian": "Kandeel",
+    "undercover": "Panati",
+    "category": "Festivals",
+    "difficulty": "easy"
+  },
+  {
+    "id": 78,
+    "civilian": "Rangoli",
+    "undercover": "Mehendi",
+    "category": "Festivals",
+    "difficulty": "medium"
+  },
+  {
+    "id": 79,
+    "civilian": "Dhol",
+    "undercover": "Tasha",
+    "category": "Festivals",
+    "difficulty": "medium"
+  },
+  {
+    "id": 80,
+    "civilian": "Gulal",
+    "undercover": "Abir",
+    "category": "Festivals",
+    "difficulty": "easy"
+  },
+  {
+    "id": 81,
+    "civilian": "Pratapgad",
+    "undercover": "Rajgad",
+    "category": "Forts",
+    "difficulty": "medium"
+  },
+  {
+    "id": 82,
+    "civilian": "Raigad",
+    "undercover": "Sinhagad",
+    "category": "Forts",
+    "difficulty": "medium"
+  },
+  {
+    "id": 83,
+    "civilian": "Shivneri",
+    "undercover": "Torna",
+    "category": "Forts",
+    "difficulty": "medium"
+  },
+  {
+    "id": 84,
+    "civilian": "Panhala",
+    "undercover": "Vishalgad",
+    "category": "Forts",
+    "difficulty": "medium"
+  },
+  {
+    "id": 85,
+    "civilian": "Lohagad",
+    "undercover": "Visapur",
+    "category": "Forts",
+    "difficulty": "hard"
+  },
+  {
+    "id": 86,
+    "civilian": "Purandar",
+    "undercover": "Vajragad",
+    "category": "Forts",
+    "difficulty": "hard"
+  },
+  {
+    "id": 87,
+    "civilian": "Tatbandi",
+    "undercover": "Buruj",
+    "category": "Forts",
+    "difficulty": "medium"
+  },
+  {
+    "id": 88,
+    "civilian": "Talwar",
+    "undercover": "Bhala",
+    "category": "Forts",
+    "difficulty": "medium"
+  },
+  {
+    "id": 89,
+    "civilian": "Lavani",
+    "undercover": "Tamasha",
+    "category": "Culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 90,
+    "civilian": "Powada",
+    "undercover": "Bharud",
+    "category": "Culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 91,
+    "civilian": "Kirtan",
+    "undercover": "Bhajan",
+    "category": "Culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 92,
+    "civilian": "Pheta",
+    "undercover": "Topi",
+    "category": "Culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 93,
+    "civilian": "Nauvari",
+    "undercover": "Paithani",
+    "category": "Culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 94,
+    "civilian": "Dholki",
+    "undercover": "Tabla",
+    "category": "Culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 95,
+    "civilian": "Lezim",
+    "undercover": "Dandia",
+    "category": "Culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 96,
+    "civilian": "Mangalsutra",
+    "undercover": "Haar",
+    "category": "Culture",
+    "difficulty": "easy"
+  },
+  {
+    "id": 97,
+    "civilian": "Nath",
+    "undercover": "Bugadi",
+    "category": "Culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 98,
+    "civilian": "Oti Bharane",
+    "undercover": "Halad Kunku",
+    "category": "Culture",
+    "difficulty": "medium"
+  },
+  {
+    "id": 99,
+    "civilian": "Kabaddi",
+    "undercover": "Kho Kho",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "id": 100,
+    "civilian": "Viti Dandu",
+    "undercover": "Lagori",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "id": 101,
+    "civilian": "Gotya",
+    "undercover": "Bhovara",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "id": 102,
+    "civilian": "Surparambya",
+    "undercover": "Lapachhapi",
+    "category": "Games",
+    "difficulty": "medium"
+  },
+  {
+    "id": 103,
+    "civilian": "Kusti",
+    "undercover": "Kabaddi",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "id": 104,
+    "civilian": "Carrom",
+    "undercover": "Chess",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "id": 105,
+    "civilian": "Cricket",
+    "undercover": "Football",
+    "category": "Games",
+    "difficulty": "easy"
+  },
+  {
+    "id": 106,
+    "civilian": "Langdi",
+    "undercover": "Kho Kho",
+    "category": "Games",
+    "difficulty": "medium"
+  },
+  {
+    "id": 107,
+    "civilian": "Sairat",
+    "undercover": "Fandry",
+    "category": "Marathi Movies",
+    "difficulty": "easy"
+  },
+  {
+    "id": 108,
+    "civilian": "Zapatlela",
+    "undercover": "Pachadlela",
+    "category": "Marathi Movies",
+    "difficulty": "easy"
+  },
+  {
+    "id": 109,
+    "civilian": "Duniyadari",
+    "undercover": "Classmates",
+    "category": "Marathi Movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 110,
+    "civilian": "Natsamrat",
+    "undercover": "Katyar Kaljat Ghusali",
+    "category": "Marathi Movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 111,
+    "civilian": "Timepass",
+    "undercover": "Balak Palak",
+    "category": "Marathi Movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 112,
+    "civilian": "Mulshi Pattern",
+    "undercover": "Dagdi Chawl",
+    "category": "Marathi Movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 113,
+    "civilian": "Ashi Hi Banwa Banwi",
+    "undercover": "Dhum Dhadaka",
+    "category": "Marathi Movies",
+    "difficulty": "easy"
+  },
+  {
+    "id": 114,
+    "civilian": "Navra Maza Navsacha",
+    "undercover": "Jatra",
+    "category": "Marathi Movies",
+    "difficulty": "medium"
+  },
+  {
+    "id": 115,
+    "civilian": "Chappal",
+    "undercover": "Boot",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 116,
+    "civilian": "Rumal",
+    "undercover": "Towel",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 117,
+    "civilian": "Dabba",
+    "undercover": "Pishvi",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 118,
+    "civilian": "Tapri",
+    "undercover": "Hotel",
+    "category": "Daily Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 119,
+    "civilian": "Cycle",
+    "undercover": "Scooter",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 120,
+    "civilian": "Riksha",
+    "undercover": "Taxi",
+    "category": "Daily Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 121,
+    "civilian": "Katta",
+    "undercover": "Par",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 122,
+    "civilian": "Khurchi",
+    "undercover": "Pat",
+    "category": "Daily Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 123,
+    "civilian": "Shala",
+    "undercover": "College",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 124,
+    "civilian": "Pencil",
+    "undercover": "Khadu",
+    "category": "Daily Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 125,
+    "civilian": "Khidki",
+    "undercover": "Darwaja",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 126,
+    "civilian": "Kulup",
+    "undercover": "Kadi",
+    "category": "Daily Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 127,
+    "civilian": "Kadhai",
+    "undercover": "Tava",
+    "category": "Daily Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 128,
+    "civilian": "Chamcha",
+    "undercover": "Pali",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 129,
+    "civilian": "Taat",
+    "undercover": "Vati",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 130,
+    "civilian": "Tambya",
+    "undercover": "Lota",
+    "category": "Daily Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 131,
+    "civilian": "Badli",
+    "undercover": "Ghamela",
+    "category": "Daily Life",
+    "difficulty": "medium"
+  },
+  {
+    "id": 132,
+    "civilian": "Chashma",
+    "undercover": "Goggles",
+    "category": "Daily Life",
+    "difficulty": "easy"
+  },
+  {
+    "id": 133,
+    "civilian": "Dongar",
+    "undercover": "Tekdi",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 134,
+    "civilian": "Dhabdhaba",
+    "undercover": "Zara",
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": 135,
+    "civilian": "Nadi",
+    "undercover": "Talaav",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 136,
+    "civilian": "Dharan",
+    "undercover": "Bandhara",
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": 137,
+    "civilian": "Paus",
+    "undercover": "Garpit",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 138,
+    "civilian": "Daw",
+    "undercover": "Dhuke",
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": 139,
+    "civilian": "Mati",
+    "undercover": "Valu",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 140,
+    "civilian": "Vad",
+    "undercover": "Pimpal",
+    "category": "Nature",
+    "difficulty": "medium"
+  },
+  {
+    "id": 141,
+    "civilian": "Aamba",
+    "undercover": "Phanas",
+    "category": "Nature",
+    "difficulty": "easy"
+  },
+  {
+    "id": 142,
+    "civilian": "Babul",
+    "undercover": "Karanj",
+    "category": "Nature",
+    "difficulty": "medium"
+  }
+]

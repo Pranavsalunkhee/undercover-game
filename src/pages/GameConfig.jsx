@@ -8,12 +8,44 @@ import {
   Plus,
   Minus,
   Play,
+  Globe,
+MapPin,
+Shuffle,
+CheckCircle,
 } from "lucide-react";
 
 import useGameStore from "../store/gameStore";
 
 function GameConfig() {
   const navigate = useNavigate();
+  const selectedLibrary = useGameStore(
+  (state) => state.selectedLibrary
+);
+
+const setSelectedLibrary = useGameStore(
+  (state) => state.setSelectedLibrary
+);
+
+const wordLibraries = [
+  {
+    id: "general",
+    name: "General",
+    description: "Everyday English words",
+    icon: Globe,
+  },
+  {
+    id: "maharashtra",
+    name: "Maharashtra Special",
+    description: "Satara, Marathi culture and local words",
+    icon: MapPin,
+  },
+  {
+    id: "mixed",
+    name: "Mixed Library",
+    description: "General and Maharashtra words combined",
+    icon: Shuffle,
+  },
+];
 
   const {
     players,
@@ -270,6 +302,73 @@ function GameConfig() {
           <Play size={22} />
           Start Game
         </button>
+
+        {/* Word Library Selection */}
+
+<h2 className="text-lg font-semibold mt-8 mb-4">
+  Select Word Library
+</h2>
+
+<div className="space-y-3">
+
+  {wordLibraries.map((library) => {
+    const Icon = library.icon;
+
+    const isSelected =
+      selectedLibrary === library.id;
+
+    return (
+      <button
+        key={library.id}
+        type="button"
+        onClick={() =>
+          setSelectedLibrary(library.id)
+        }
+        className={`w-full flex items-center gap-4
+          p-4 rounded-2xl border-2 text-left
+          transition cursor-pointer
+          ${
+            isSelected
+              ? "bg-purple-600/15 border-purple-500"
+              : "bg-[#1d1d30] border-transparent"
+          }`}
+      >
+
+        <div className="w-12 h-12 shrink-0
+          bg-purple-600/20 rounded-xl flex
+          items-center justify-center">
+
+          <Icon
+            size={24}
+            className="text-purple-400"
+          />
+
+        </div>
+
+        <div className="flex-1">
+
+          <h3 className="font-bold">
+            {library.name}
+          </h3>
+
+          <p className="text-xs text-gray-400 mt-1">
+            {library.description}
+          </p>
+
+        </div>
+
+        {isSelected && (
+          <CheckCircle
+            size={22}
+            className="text-purple-400 shrink-0"
+          />
+        )}
+
+      </button>
+    );
+  })}
+
+</div>
 
         <p className="text-center text-gray-500 text-xs mt-4">
           Roles and secret words will be assigned randomly.

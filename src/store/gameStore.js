@@ -111,6 +111,10 @@ const useGameStore = create(
       players: [],
       undercoverCount: 1,
       mrWhiteCount: 0,
+      selectedLibrary: "general",
+
+setSelectedLibrary: (library) =>
+  set({ selectedLibrary: library }),
 
       // Session management
       scores: {},
@@ -134,13 +138,14 @@ const useGameStore = create(
       // Start game
       startGame: () => {
         const {
-          players,
-          undercoverCount,
-          mrWhiteCount,
-          completedGames,
-        } = get();
+  players,
+  undercoverCount,
+  mrWhiteCount,
+  completedGames,
+  selectedLibrary,
+} = get();
 
-        const words = selectRandomWords();
+const words = selectRandomWords(selectedLibrary);
 
         const assignedPlayers = assignRoles(
           players,
@@ -261,6 +266,7 @@ const useGameStore = create(
             winningPlayerId: state.pendingMrWhiteId,
             pendingMrWhiteId: null,
             ...finishGame(winningState),
+
           });
 
           return true;
